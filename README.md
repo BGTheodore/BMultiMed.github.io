@@ -30,4 +30,4 @@ Fonctionnalites:
 - La page s'accomode a l'ecran de l'utilisateur.
 
 Link:
-- 
+- https://bgtheodore.github.io/BMultiMed.github.io/
